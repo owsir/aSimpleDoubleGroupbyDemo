@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\bin\Debug\DoubGroupBy.exe.config
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\bin\Debug\DoubGroupBy.exe
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\bin\Debug\DoubGroupBy.pdb
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\obj\Debug\DoubGroupBy.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\obj\Debug\DoubGroupBy.exe
+\\mac\home\documents\visual studio 2015\Projects\DoubGroupBy\DoubGroupBy\obj\Debug\DoubGroupBy.pdb
